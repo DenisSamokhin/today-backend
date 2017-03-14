@@ -1,0 +1,5 @@
+module CLibreSSL {
+    umbrella header "/Users/denis/Documents/Study/Backend/VaporTest/today-backend/today-backend/Packages/CLibreSSL-1.0.0/Sources/CLibreSSL/include/CLibreSSL.h"
+    link "CLibreSSL"
+    export *
+}

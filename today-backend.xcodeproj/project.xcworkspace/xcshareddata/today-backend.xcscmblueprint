@@ -1,0 +1,58 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C6DCC247290E5DF283AE73155E9E5FB391F1790B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "65880DAFEE5F57D1D1C181560E763EECFD96B06D" : 9223372036854775807,
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : 9223372036854775807,
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6" : 9223372036854775807,
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3" : 9223372036854775807,
+    "C6DCC247290E5DF283AE73155E9E5FB391F1790B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2F0EBDD4-7BDF-47D2-AB76-E882457AD568",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "65880DAFEE5F57D1D1C181560E763EECFD96B06D" : "today-backend\/Packages\/Fluent-1.4.1\/",
+    "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC" : "today-backend\/Packages\/Jay-1.0.1\/",
+    "EE0211841CDBC942EFB5905580DF4AA57B5992F6" : "today-backend\/Packages\/Node-1.0.1\/",
+    "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC" : "today-backend\/Packages\/Polymorphic-1.0.1\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3" : "today-backend\/Packages\/Vapor-1.5.9\/",
+    "C6DCC247290E5DF283AE73155E9E5FB391F1790B" : "today-backend\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "today-backend",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "today-backend.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vapor\/vapor.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vapor\/fluent.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "65880DAFEE5F57D1D1C181560E763EECFD96B06D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vapor\/polymorphic.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6D09577DC770D433CEBE622BD4B45C8CF6CB8CCC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DanToml\/Jay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8FE2B4BB55A3C9D7B3B78FD1E2302636E924BDDC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/DenisSamokhin\/today-backend.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C6DCC247290E5DF283AE73155E9E5FB391F1790B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/vapor\/node.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EE0211841CDBC942EFB5905580DF4AA57B5992F6"
+    }
+  ]
+}

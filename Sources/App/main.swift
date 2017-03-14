@@ -24,6 +24,12 @@ drop.get("info") { req in
         ])
 }
 
+drop.get("aloha") { req in
+    return try JSON(node: [
+        "privet"     : "Andrey"
+        ])
+}
+
 drop.resource("posts", PostController())
 
 drop.run()
